@@ -1,38 +1,29 @@
-# prodigal
+# prodigal-web
 
-## Project setup
+This template should help get you started developing with Vue 3 in Vite.
 
-```
+## Recommended IDE Setup
+
+[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+
+## Customize configuration
+
+See [Vite Configuration Reference](https://vitejs.dev/config/).
+
+## Project Setup
+
+```sh
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Compile and Hot-Reload for Development
 
-```
-npm run serve
+```sh
+npm run dev
 ```
 
-### Compiles and minifies for production
+### Compile and Minify for Production
 
-```
+```sh
 npm run build
 ```
-
-### Lints and fixes files
-
-```
-npm run lint
-```
-
-### Customize configuration
-
-See [Configuration Reference](https://cli.vuejs.org/config/).
-
-<!-- 文中css样式设置介绍：
-
-1. # -开头除去框架自带之外，其他均为自主设置
-2. . -开头多为系统框架定义
-3. 命名规则： 模块名<moduleName> + 功能英文名 + [第几个：1 、2 、3 ...... | head content footer 等等]
-例：<Vue.vue 文件定义css样式 登录附件->  [id="vueLogin"]>
-
- -->
